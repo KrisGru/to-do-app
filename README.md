@@ -1,4 +1,4 @@
-TO DO APP [live demo](https://vercel.com/krisgru/to-do).
+TO DO APP [live demo](https://to-do-neon.vercel.app/).
 
 ## Available Scripts
 
